@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const api = axios.create({
-  baseURL:  'https://rideback-server.onrender.com/api',
+  baseURL:  'https://ridebac.onrender.com/api',
   headers: { 'Content-Type': 'application/json' },
 })
 
